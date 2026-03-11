@@ -81,7 +81,7 @@ iExpense/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/votre-username/iExpense.git
+git clone https://github.com/guitch95/iExpense.git
 cd iExpense
 open iExpense.xcodeproj
 ```
