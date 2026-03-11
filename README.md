@@ -2,8 +2,9 @@
 
 Application iOS de suivi des dépenses personnelles et professionnelles, développée avec **SwiftUI** et **SwiftData**.
 
-`Swift` `iOS` `SwiftUI` `SwiftData`
-
+![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS%2016+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
 ## 📱 Aperçu
 
 <div align="center">
